@@ -6,9 +6,6 @@
 - ✈ [Telegram](https://t.me/Yasha_win)
 - ⚡ Fan fact: I am fond of snowboarding and a former electrical station adjuster
 
-I will be glad to help 🙏
+I will be glad to help 😎
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashaVinter&layout=compact&hide=html&theme=dark" alt="ardalis" />
-<div/>
-<br />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashaVinter&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
