@@ -4,7 +4,6 @@
 - 📫 How to reach me
 - 👍  [Facebook](https://www.facebook.com/profile.php?id=100005119875365)
 - ✈ [Telegram](https://t.me/Yasha_win)
-- ⚡ Fan fact: I'm fond of snowboarding and a former electrical station adjuster
 
 #### Languages
 
