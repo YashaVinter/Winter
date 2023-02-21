@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 About me: young .NET developer who came from the electric power industry
+- 💬 About me: young WEB developer who came from the electric power industry
 - 📫 How to reach me
 - 👍  [Facebook](https://www.facebook.com/profile.php?id=100005119875365)
 - ✈ [Telegram](https://t.me/Yasha_win)
