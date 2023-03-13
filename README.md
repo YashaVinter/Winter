@@ -7,6 +7,7 @@
 
 #### Languages
 
+![Ruby](https://img.shields.io/badge/-Ruby-fff?&logo=ruby&logoColor=red)
 ![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)
 ![C++](https://img.shields.io/badge/C++-fff?logo=C%2B%2B&logoColor=blue)
 ![MATLAB](https://img.shields.io/badge/MATLAB-fff?logoColor=white)
